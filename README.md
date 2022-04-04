@@ -2,7 +2,7 @@
 Spreadsheets by Warren Woodhouse. For personal use only. Please read the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL | https://warrenwoodhouse.fandom.com/wiki/Category:Type:xml
 
 # FILES
-* [CLICK HERE](https://github.com/warrenwoodhouse/spreadsheets) to see the full list of spreadsheets.
+* [CLICK HERE](https://github.com/warrenwoodhouse/spreadsheets/find/main) to see the full list of spreadsheets.
 
 # LICENSE AGREEMENT
 You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
