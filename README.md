@@ -1,2 +1,21 @@
 # spreadsheets
-Spreadsheets by Warren Woodhouse. For personal use only. See the license agreement at https://warrenwoodhouse.fandom.com/license
+Spreadsheets by Warren Woodhouse. For personal use only. Please read the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL | https://warrenwoodhouse.fandom.com/wiki/Category:Type:xml
+
+# FILES
+* [CLICK HERE](https://github.com/warrenwoodhouse/spreadsheets) to see the full list of spreadsheets.
+
+# LICENSE AGREEMENT
+You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
+
+# WHAT IS IN THE PACKAGE
+Spreadsheets by Warren Woodhouse.
+
+# SUPPORT
+You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
+
+# KEEP IN TOUCH
+* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
+* Follow on Twitter: https://twitter.com/warrenwoodhouse
+* Spreadsheets Category on Warren Woodhouse: https://warrenwoodhouse.fandom.com/wiki/Category:Type:xml
+* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/wiki/Blog
+* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
